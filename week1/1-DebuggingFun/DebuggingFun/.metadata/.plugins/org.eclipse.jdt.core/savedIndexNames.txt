@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/blinky/Desktop/Core-Java-2-master/week1/1-DebuggingFun/DebuggingFun/.metadata/.plugins/org.eclipse.jdt.core
+35334824.index
+293372535.index
+1373146931.index
